@@ -12,7 +12,7 @@ int main() {
   int populacao01, populacao02;    // numero de habitantes da cidade
   float area01, area02;            // area da cidade em km2
   float pib01, pib02;              // PIB (Produto Interno Bruto) da cidade
-  int turismo01, turismo02;        // Numero de pontos turisticos da cidade
+  int turismo01,  turismo02;        // Numero de pontos turisticos da cidade
 
   // Área para entrada de dados da carta 01
    printf("CADASTRO DE CARTAS DO SUPER TRUNFO\n\n");
